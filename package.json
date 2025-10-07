@@ -1,0 +1,6 @@
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "cross-env PORT=3000 next start -p $PORT"
+}
+
